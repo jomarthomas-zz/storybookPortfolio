@@ -7,11 +7,11 @@ This project demonstrates my skill in converting Figma designs into interactive 
 
 ### Technology used for this project:
 
-Figma
-Storybook
-HTML
-JavaScript ES6
-CSS
-ParcelJS
-NodeJS
-NPM
+1. Figma
+2. Storybook
+3. HTML
+4. JavaScript ES6
+5. CSS
+6. ParcelJS
+7. NodeJS
+8. NPM
