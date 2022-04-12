@@ -1,0 +1,33 @@
+.badge {
+    font-family: 'Nunito Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: center;
+    padding: 16px;
+
+    position: absolute;
+    width: 100%;
+    max-width: 320px;
+
+    background: #FFFFFF;
+    box-shadow: 0px 30px 60px rgba(32, 56, 85, 0.15);
+    border-radius: 16px;
+}
+
+.badges {
+    margin: 1rem;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 8px;
+    background: #F3F8FC;
+    border-radius: 8px;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    color: #939DA7;
+}

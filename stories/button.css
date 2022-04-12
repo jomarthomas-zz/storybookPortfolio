@@ -1,0 +1,30 @@
+.button {
+  font-family: 'Nunito Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  height: 41px;
+  font-size: 14px;
+  top: 0px;
+  border-radius: 8px;
+  padding: 10px;
+  border: 0;
+  font-weight: 500;
+  width: 100%;
+}
+.button--primary {
+  color: #F0F5FC;
+  background-color: #1ea7fd;
+}
+.button--secondary {
+  color: #849295;
+  background-color: transparent;
+  border: 1px solid #849295;
+}
+.button--small {
+  max-width: 106px;
+}
+.button--medium {
+  max-width: 146px;
+
+}
+.button--large {
+  max-width: 186px;
+}
